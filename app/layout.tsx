@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Request Repeater - Efficient URL Request Testing",
     description: "Request Repeater is a tool for testing and retrying URL requests with detailed response analysis.",
-    url: "https://yourdomain.com",
+    url: "https://mahdiasadolahzade.github.io/request-repeater/",
     type: "website",
     images: [
       {
@@ -39,8 +39,9 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="Request Repeater - Efficient URL Request Testing" />
         <meta property="og:description" content="Request Repeater is a tool for testing and retrying URL requests with detailed response analysis." />
-        <meta property="og:url" content="https://yourdomain.com" />
+        <meta property="og:url" content="https://mahdiasadolahzade.github.io/request-repeater/" />
         <meta property="og:type" content="website" />
+        <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5220/5220478.png"></link>
         <meta property="og:image" content="https://cdn-icons-png.flaticon.com/512/5220/5220478.png" />
         <title>Request Repeater - Efficient URL Request Testing</title>
       </head>
